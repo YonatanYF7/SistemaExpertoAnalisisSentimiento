@@ -1,0 +1,68 @@
+texto,sentimiento
+"Me encanta este producto, es maravilloso!",positivo
+"no podría ser peor",negativo
+"Es terrible, no lo recomendaría a nadie.",negativo
+"Está bien, pero podría ser mejor.",neutral1
+"El servicio al cliente fue excepcional.",positivo
+"No me gustó para nada, muy decepcionante.",negativo
+"Todo estuvo correcto, nada fuera de lo común.",neutral
+"¡Una experiencia increíble, volveré pronto!",positivo
+"El producto no funcionó como esperaba.",negativo
+"El producto está bien, pero el envío fue lento.",neutral
+"Excelente calidad y precio.",positivo
+"El servicio fue muy lento.",negativo
+"Los empleados fueron muy amables.",positivo
+"El diseño del producto es mediocre.",neutral
+"Me gusta la funcionalidad del producto.",positivo
+"No cumple con las expectativas.",negativo
+"El empaque estaba dañado.",negativo
+"Fácil de usar y muy intuitivo.",positivo
+"La aplicación se cierra frecuentemente.",negativo
+"No hay mucho que destacar, es aceptable.",neutral
+"Superó todas mis expectativas.",positivo
+"Es una pérdida de dinero.",negativo
+"La interfaz de usuario es muy atractiva.",positivo
+"El soporte técnico es inútil.",negativo
+"Es un producto decente por el precio.",neutral
+"Rápido y eficiente, muy recomendable.",positivo
+"La calidad del material es pobre.",negativo
+"No hay novedades en esta versión.",neutral
+"La actualización mejoró mucho el rendimiento.",positivo
+"No recomiendo comprarlo.",negativo
+"El sabor es excelente.",positivo
+"El tamaño es mucho más pequeño de lo esperado.",negativo
+"Cumple con su función.",neutral
+"El envío fue muy rápido.",positivo
+"El producto llegó roto.",negativo
+"Los colores son muy vivos y bonitos.",positivo
+"Es más caro que la competencia y no mejor.",negativo
+"El servicio al cliente es normal.",neutral
+"El software tiene muchas características útiles.",positivo
+"La batería no dura mucho.",negativo
+"El restaurante es limpio y acogedor.",positivo
+"La comida no tenía sabor.",negativo
+"El ambiente es agradable.",neutral
+"El viaje fue confortable y seguro.",positivo
+"Tuve muchos problemas con la instalación.",negativo
+"Es un dispositivo fiable.",neutral
+"La calidad de audio es impresionante.",positivo
+"El control remoto no funciona bien.",negativo
+"El diseño es moderno y elegante.",positivo
+"El manual de instrucciones no es claro.",negativo
+"El servicio es aceptable.",neutral
+"La entrega fue antes de lo esperado.",positivo
+"El producto no corresponde a la descripción.",negativo
+"El sitio web es fácil de navegar.",positivo
+"El precio es muy elevado para lo que ofrece.",negativo
+"El tiempo de respuesta es rápido.",neutral
+"La textura es agradable al tacto.",positivo
+"Tuve que devolverlo, muy mala calidad.",negativo
+"Es funcional, pero nada especial.",neutral
+"El personal es muy servicial.",positivo
+"El software tiene muchos errores.",negativo
+"Es intuitivo y fácil de usar.",positivo
+"La actualización causó más problemas que soluciones.",negativo
+"Es una solución adecuada.",neutral
+"La experiencia de compra fue excelente.",positivo
+"La garantía no cubre muchos daños.",negativo
+"Es un producto promedio.",neutral
